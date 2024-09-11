@@ -28,6 +28,8 @@
 
 .contact-info p {
   margin: 0;
+  display: flex;
+  align-items: center;
 }
 
 .contact-info a,
@@ -38,6 +40,12 @@
 
 .contact-info a:hover {
   text-decoration: underline;
+}
+
+.contact-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
 }
 
 body {
