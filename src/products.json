@@ -1,0 +1,86 @@
+[
+    {
+        "id": 252,
+        "name": "Trà Ổi Hồng",
+        "description": "Guava Tea",
+        "imageUrl": "https://i.imgur.com/2Js9bdb.jpeg",
+        "price": 25000.00
+    },
+    {
+        "id": 253,
+        "name": "Trà Mãng Cầu",
+        "description": "Starfruit Tea",
+        "imageUrl": "https://i.imgur.com/UcKehe9.jpeg",
+        "price": 25000.00
+    },
+    {
+        "id": 254,
+        "name": "Trà Dâu Tây",
+        "description": "Strawberry Tea",
+        "imageUrl": "https://i.imgur.com/iG3RVJ6.jpeg",
+        "price": 25000.00
+    },
+    {
+        "id": 255,
+        "name": "Trà Dứa Lưới",
+        "description": "Pineapple Tea",
+        "imageUrl": "https://i.imgur.com/xoJH9ih.jpeg",
+        "price": 25000.00
+    },
+    {
+        "id": 256,
+        "name": "Trà Sữa Trân Châu",
+        "description": "Boba Milk Tea",
+        "imageUrl": "https://i.imgur.com/PXRZkTg.png",
+        "price": 25000.00
+    },
+    {
+        "id": 257,
+        "name": "Trà Đào Cam Sả",
+        "description": "Peach Orange Lemongrass Tea",
+        "imageUrl": "https://i.imgur.com/4z7oYew.png",
+        "price": 25000.00
+    },
+    {
+        "id": 258,
+        "name": "Trà Trái Cây Nhiệt Đới",
+        "description": "Tropical Fruit Tea",
+        "imageUrl": "https://i.imgur.com/97JINyc.jpeg",
+        "price": 30000.00
+    },
+    {
+        "id": 260,
+        "name": "Trà Tắc",
+        "description": "Kumquat Tea",
+        "imageUrl": "https://i.imgur.com/mFj6uIf.png",
+        "price": 12000.00
+    },
+    {
+        "id": 261,
+        "name": "Sâm Dứa Sữa",
+        "description": "Ginseng Pineapple Milk",
+        "imageUrl": "https://i.imgur.com/OyxZVCT.jpeg",
+        "price": 15000.00
+    },
+    {
+        "id": 263,
+        "name": "Dứa Tắc - Mít Thơm",
+        "description": "Pineapple Calamansi - Jackfruit",
+        "imageUrl": "https://i.imgur.com/VsX5GvI.png",
+        "price": 25000.00
+    },
+    {
+        "id": 264,
+        "name": "Sữa Chua Hạt Dạc",
+        "description": "Yogurt with Lotus Seeds",
+        "imageUrl": "https://i.imgur.com/qF1yv0O.jpeg",
+        "price": 25000.00
+    },
+    {
+        "id": 265,
+        "name": "Trái Cây Thố Thập Cẩm",
+        "description": "Mixed Fruit Bowl",
+        "imageUrl": "https://i.imgur.com/r0fC9wh.jpeg",
+        "price": 30000.00
+    }
+]

@@ -1,21 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { getAllProducts } from './productService';
+import productsData from '../../products.json';
 import './ProductList.css';
 
 const ProductList = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    const fetchProducts = async () => {
-      try {
-        const products = await getAllProducts();
-        setProducts(products);
-      } catch (error) {
-        console.error('Failed to fetch products:', error);
-      }
-    };
-
-    fetchProducts();
+    setProducts(productsData);
   }, []);
 
   const formatCurrency = (amount) => {
