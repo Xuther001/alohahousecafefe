@@ -1,6 +1,7 @@
 import React from 'react';
-import ProductList from './components/productList/productList';
-import Contact from './components/contact/contact';
+import ProductList from './components/productList/ProductList';
+import Contact from './components/contact/Contact';
+import Map from './components/map/Map';
 import './App.css';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Contact />
       <h1>Menu</h1>
       <ProductList />
+      <Map />
     </div>
   );
 }
