@@ -2,9 +2,11 @@
   text-align: center;
   background-color: #f4f4f4;
   padding: 20px;
+  position: relative;
 }
 
 .App h1 {
-  color: #4CAF50;
-  margin-bottom: 20px;
+  font-size: 3em; /* Adjust the size as needed */
+  color: #4CAF50; /* Optional: Change color to match your theme */
+  margin-bottom: 20px; /* Adjust spacing below the heading */
 }

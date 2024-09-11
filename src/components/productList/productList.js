@@ -45,7 +45,7 @@ const ProductList = () => {
 
   return (
     <div className="product-list-container">
-      <h2>Menu</h2>
+      <h2></h2>
       {products.length === 0 ? (
         <p>No products available.</p>
       ) : (
