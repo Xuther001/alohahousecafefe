@@ -1,0 +1,45 @@
+.contact-container {
+  font-family: Arial, sans-serif;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  text-align: center;
+}
+
+.contact-container h2 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.contact-info p {
+  margin: 0;
+}
+
+.contact-info a,
+.contact-info span {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+body {
+  padding-top: 80px;
+}
