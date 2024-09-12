@@ -23,7 +23,7 @@
     {
         "id": 255,
         "name": "Trà Dứa Lưới",
-        "description": "Pineapple Tea",
+        "description": "Cantalope Tea",
         "imageUrl": "https://i.imgur.com/xoJH9ih.jpeg",
         "price": 25000.00
     },
@@ -58,21 +58,14 @@
     {
         "id": 261,
         "name": "Sâm Dứa Sữa",
-        "description": "Ginseng Pineapple Milk",
+        "description": "Pandan Leaves Ginseng Milk",
         "imageUrl": "https://i.imgur.com/OyxZVCT.jpeg",
         "price": 15000.00
     },
     {
-        "id": 263,
-        "name": "Dứa Tắc - Mít Thơm",
-        "description": "Pineapple Calamansi - Jackfruit",
-        "imageUrl": "https://i.imgur.com/VsX5GvI.png",
-        "price": 25000.00
-    },
-    {
         "id": 264,
         "name": "Sữa Chua Hạt Dạc",
-        "description": "Yogurt with Lotus Seeds",
+        "description": "Yogurt With Sugar Palm Seeds",
         "imageUrl": "https://i.imgur.com/qF1yv0O.jpeg",
         "price": 25000.00
     },
